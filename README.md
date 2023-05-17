@@ -1,3 +1,4 @@
+![presentationtitle](https://github.com/JaeyoungAhn/IdealTypeWorldCup/assets/39547923/23d84451-40a7-4e16-a867-8a07bf702503)
 ![Uploading image.jpg...](/presentation/presentation%20(1).jpg)
 ![Uploading image.jpg...](/presentation/presentation%20(2).jpg)
 ![Uploading image.jpg...](/presentation/presentation%20(3).jpg)
@@ -7,6 +8,10 @@
 ![Uploading image.jpg...](/presentation/presentation%20(7).jpg)
 ![Uploading image.jpg...](/presentation/presentation%20(8).jpg)
 ![Uploading image.jpg...](/presentation/presentation%20(9).jpg)
+![presentationstack1](https://github.com/JaeyoungAhn/IdealTypeWorldCup/assets/39547923/f9b11cef-1e84-4408-a810-8faca984dfb5)
+![presentationstack2](https://github.com/JaeyoungAhn/IdealTypeWorldCup/assets/39547923/7d1e86d3-c5f7-4e03-883e-807bb90fa8fd)
+![feedback1](https://github.com/JaeyoungAhn/IdealTypeWorldCup/assets/39547923/ffb175e7-c056-4c35-a84f-6c169bf8f30f)
+![feedback2](https://github.com/JaeyoungAhn/IdealTypeWorldCup/assets/39547923/abd459de-c858-469f-a0e9-72728e89aabb)
 
 # 빠른 시작(Linux(bash) 환경 기준)
 /Team6_Final_Project/init.sh를 실행하여 모든 과정을 빠르게 시작할 수 있습니다.
